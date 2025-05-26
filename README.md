@@ -32,12 +32,15 @@ Tecnologias Utilizadas:
 
 
 Objetivo Final:
+
 -O intuito é que o usuário tenha, ao final do período fiscal, todas as informações reunidas e validadas em um único lugar, facilitando a importação manual ou leitura eficiente para a declaração do Imposto de Renda junto à Receita Federal.
 
 Observações:
+
 -Esta ferramenta não substitui um contador, mas ajuda significativamente no preparo da documentação.
 -Pode ser customizada conforme as necessidades de cada usuário.
 -Recomenda-se fazer backups regulares do arquivo.
 
 Contato:
+
 -Se você tiver dúvidas, sugestões ou quiser contribuir com o projeto, fique à vontade para entrar em contato.
